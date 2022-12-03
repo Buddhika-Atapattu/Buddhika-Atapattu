@@ -1,4 +1,4 @@
-<h1 style="font-size:4rem">Hi, I'm Buddhika Atapattu!</h1> <br/>
+<h1 style="font-size:5rem">Hi, I'm Buddhika Atapattu!</h1>
 <h2><a href="https://github.com/Buddhika-Atapattu" >Graphic designer, Web developer and Designer</a></h2>
 
 <h2>👨🏽‍💻 IT Projects:</h2>
