@@ -1,4 +1,4 @@
-<h1>Hi, I'm Buddhika Atapattu! <br/><a href="https://github.com/Buddhika-Atapattu">Web developer and Designer</a></h1>
+<h1>Hi, I'm Buddhika Atapattu! <br/><a href="https://github.com/Buddhika-Atapattu">Graphic designer, Web developer and Designer</a></h1>
 
 <h2>👨🏽‍💻 IT Projects:</h2>
 
