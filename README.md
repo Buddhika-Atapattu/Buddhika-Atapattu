@@ -6,7 +6,7 @@
   -<a href="https://buddhika-atapattu.github.io/Buddhika-Atapattu-Bootstrap-CSS-HTML/">https://buddhika-atapattu.github.io/Buddhika-Atapattu-Bootstrap-CSS-HTML/</a><br>
   - [Built as a Sample Hotel Website Design](https://www.canva.com/design/DAFTp0j75aM/K1_VyLcgtdtj7wdZaF7V7A/view?website#4:stay)<br>
   
-  -My projects using Laravel Framework<br>
+  <h4>-My projects using Laravel Framework</h4>
   -<a href="https://github.com/Buddhika-Atapattu/Buddhika-Atapattu-Laravel-Progect-One">Project one</a><br>
 
 <h2>The languages I'm familier with</h2>
