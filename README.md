@@ -36,6 +36,6 @@
 </ul>
 
 <h2>Contact</h2>
-<p>Check Out My <a href="https://www.linkedin.com/in/buddhika-atapattu-ba3705b5/">LinkedIn </a></p><br>
+<p>Check Out My <a href="https://www.linkedin.com/in/buddhika-atapattu-ba3705b5/">LinkedIn </a></p>
 <p><a href="https://wa.me/971583050414">WhatsApp me</a></p>
 <p>Email addresss: <a href="mailto:atapattu.buddhika@gmail.com">atapattu.buddhika@gmail.com</a>
