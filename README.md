@@ -9,3 +9,29 @@
   -My projects using Laravel Framework<br>
   -<a href="https://github.com/Buddhika-Atapattu/Buddhika-Atapattu-Laravel-Progect-One">Project one</a><br>
 Check Out My <a href="https://www.linkedin.com/in/buddhika-atapattu-ba3705b5/">LinkedIn </a><br>
+
+<h2>The languages I'm familier with</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>C</li>
+  <li>C++</li>
+  <li>Java</li>
+  <li>PHP</li>
+  <li>SQL</li>
+  <li>MySQL</li>
+</ul>
+
+<h2>The framework I'm familier with</h2>
+<ul>
+  <li>Laravel</li>
+</ul>
+
+<h2>The libraries I'm familier with</h2>
+<ul>
+  <li>Bootstrap</li>
+  <li>jQuery</li>
+  <li>JSON</li>
+  <li>AJAX</li>
+</ul>
