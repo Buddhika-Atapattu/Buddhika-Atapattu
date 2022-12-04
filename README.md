@@ -8,7 +8,6 @@
   
   -My projects using Laravel Framework<br>
   -<a href="https://github.com/Buddhika-Atapattu/Buddhika-Atapattu-Laravel-Progect-One">Project one</a><br>
-Check Out My <a href="https://www.linkedin.com/in/buddhika-atapattu-ba3705b5/">LinkedIn </a><br>
 
 <h2>The languages I'm familier with</h2>
 <ul>
@@ -35,3 +34,8 @@ Check Out My <a href="https://www.linkedin.com/in/buddhika-atapattu-ba3705b5/">L
   <li>JSON</li>
   <li>AJAX</li>
 </ul>
+
+<h2>Contact</h2>
+<p>Check Out My <a href="https://www.linkedin.com/in/buddhika-atapattu-ba3705b5/">LinkedIn </a></p><br>
+<p><a href="https://wa.me/971583050414">WhatsApp me</a></p>
+<p>Email addresss: <a href="mailto:atapattu.buddhika@gmail.com">atapattu.buddhika@gmail.com</a>
