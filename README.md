@@ -13,10 +13,9 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>SCSS</li>
   <li>JavaScript</li>
-  <li>C</li>
-  <li>C++</li>
-  <li>Java</li>
+  <li>TypeScript</li>
   <li>PHP</li>
   <li>SQL</li>
   <li>MySQL</li>
@@ -25,17 +24,26 @@
 <h2>The framework I'm familier with</h2>
 <ul>
   <li>Laravel</li>
+  <li>Angular</li>
+  <li>React</li>
+  <li>Next JS</li>
+  <li>Node JS</li>
 </ul>
 
 <h2>The libraries I'm familier with</h2>
 <ul>
   <li>Bootstrap</li>
   <li>jQuery</li>
-  <li>JSON</li>
-  <li>AJAX</li>
+  <li>Node</li>
+</ul>
+
+<h2>Database Management</h2>
+<ul>
+  <li>PhpMyAdmin</li>
+  <li>Mongo DB</li>
 </ul>
 
 <h2>Contact</h2>
 <p>Check Out My <a href="https://www.linkedin.com/in/buddhika-atapattu-ba3705b5/">LinkedIn </a></p>
-<p><a href="https://wa.me/971583050414">WhatsApp me</a></p>
+<p><a href="https://wa.me/971554634997">WhatsApp me</a></p>
 <p>Email addresss: <a href="mailto:atapattu.buddhika@gmail.com">atapattu.buddhika@gmail.com</a>
