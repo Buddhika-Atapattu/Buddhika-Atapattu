@@ -19,6 +19,7 @@
   <li>PHP</li>
   <li>SQL</li>
   <li>MySQL</li>
+  <li>Python</li>
 </ul>
 
 <h2>The framework I'm familier with</h2>
@@ -26,6 +27,7 @@
   <li>Laravel</li>
   <li>Angular</li>
   <li>React</li>
+  <li>React Native</li>
   <li>Next JS</li>
   <li>Node JS</li>
 </ul>
