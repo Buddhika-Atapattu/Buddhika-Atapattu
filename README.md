@@ -1,51 +1,115 @@
-<h1 style="font-size:5rem">Hi, I'm Buddhika Atapattu!</h1>
-<h2><a href="https://github.com/Buddhika-Atapattu" >Graphic designer, Web developer and Designer</a></h2>
+# 👋 Hello, I’m Buddhika Lahiru Atapattu
 
-<h2>👨🏽‍💻 IT Projects:</h2>
-  Sample HTML, CSS, Bootstrap project
-  -<a href="https://buddhika-atapattu.github.io/Buddhika-Atapattu-Bootstrap-CSS-HTML/">https://buddhika-atapattu.github.io/Buddhika-Atapattu-Bootstrap-CSS-HTML/</a><br>
-  - [Built as a Sample Hotel Website Design](https://www.canva.com/design/DAFTp0j75aM/K1_VyLcgtdtj7wdZaF7V7A/view?website#4:stay)<br>
-  
-  <h4>-My projects using Laravel Framework</h4>
-  -<a href="https://github.com/Buddhika-Atapattu/Buddhika-Atapattu-Laravel-Progect-One">Project one</a><br>
+Welcome to my GitHub profile! I’m a **Senior Software Engineer** with over 5 years of professional experience, specializing in **Full Stack Web Development**, **Cloud Architecture**, and **DevOps**. I’ve successfully built, deployed, and maintained scalable, high-performance applications across multiple industries in **Sri Lanka** and the **United Arab Emirates**.
 
-<h2>The languages I'm familier with</h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>SCSS</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>PHP</li>
-  <li>SQL</li>
-  <li>MySQL</li>
-  <li>Python</li>
-</ul>
+---
 
-<h2>The framework I'm familier with</h2>
-<ul>
-  <li>Laravel</li>
-  <li>Angular</li>
-  <li>React</li>
-  <li>React Native</li>
-  <li>Next JS</li>
-  <li>Node JS</li>
-</ul>
+## 💼 Professional Overview
 
-<h2>The libraries I'm familier with</h2>
-<ul>
-  <li>Bootstrap</li>
-  <li>jQuery</li>
-  <li>Node</li>
-</ul>
+As a passionate **Software Engineer**, I am proficient in both **frontend** and **backend** development, with a particular focus on **PHP** and **JavaScript** technologies. I bring expertise in designing robust architectures that integrate seamless user experiences with optimized backend systems. My focus has always been on delivering quality, efficiency, and innovation across every stage of the development lifecycle.
 
-<h2>Database Management</h2>
-<ul>
-  <li>PhpMyAdmin</li>
-  <li>Mongo DB</li>
-</ul>
+### 🚀 Expertise:
+- **Languages:** HTML, CSS, SCSS, JavaScript, TypeScript, PHP, NodeJS, Python, C#, C, C++, Dart, Java
+- **Frameworks & Libraries:** Laravel, Angular, React, NextJS, VueJS, ASP .NET, Flutter, React Native
+- **DevOps Tools:** Docker, Kubernetes, AWS, Git, CI/CD pipelines
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQL/NoSQL databases
+- **Cloud Technologies:** AWS (EC2, Lambda, S3), Docker, Kubernetes
+- **Software Development:** Agile, Scrum, Test-Driven Development (TDD), Microservices architecture, REST APIs
+- **Design & UX:** Adobe Creative Suite, Figma, Motion Graphics
 
-<h2>Contact</h2>
-<p>Check Out My <a href="https://www.linkedin.com/in/buddhika-atapattu-ba3705b5/">LinkedIn </a></p>
-<p><a href="https://wa.me/971554634997">WhatsApp me</a></p>
-<p>Email addresss: <a href="mailto:atapattu.buddhika@gmail.com">atapattu.buddhika@gmail.com</a>
+---
+
+## 🌟 Key Projects & Achievements
+
+### **1. Property Management Cloud Application**  
+**Company:** Indus Real Estate, Dubai  
+**Role:** Full Stack Developer  
+I led the development of a comprehensive property management system that streamlined real estate operations. The system allowed property managers to handle tenants, leases, and maintenance efficiently, supported by robust cloud infrastructure and real-time data analytics.
+
+- Designed and implemented key modules for property listings, user management, and automated notifications.
+- Built scalable RESTful APIs for seamless data management.
+- Implemented **SQL** and **NoSQL** databases for flexible data handling.
+- Created a fully automated testing framework to ensure high-quality deployments.
+
+---
+
+### **2. E-Commerce Platform Development**  
+**Role:** Senior Backend Developer  
+Worked with one of the leading e-commerce platforms in the MENA region. I played a key role in architecting backend systems to support large-scale online sales, product catalog management, and seamless user interactions.
+
+- Specialized in **PHP** (Laravel) and **Microservices architecture** to build scalable and modular components.
+- Improved performance and reduced latency by optimizing database queries and server-side logic.
+- Collaborated closely with frontend teams to ensure smooth, responsive UIs that align with business needs.
+- Managed and mentored a team of junior developers, helping them grow technically and professionally.
+
+---
+
+### **3. Mobile-First Responsive Websites**  
+**Company:** NG International Co. LTD, Ho Chi Minh City (remote)  
+**Role:** IT Support and Administrator  
+Developed mobile-first, responsive websites and landing pages for diverse business clients, ensuring cross-platform compatibility and high performance across devices.
+
+- Standardized output across platforms with a **mobile-first** design approach.
+- Integrated modern UI/UX practices to deliver intuitive user experiences.
+- Provided ongoing support and maintenance to keep websites running smoothly.
+
+---
+
+### **4. IT Infrastructure & System Support**  
+**Company:** Wembley Spirit Limited, Colombo  
+**Role:** IT Technician  
+Contributed to building and maintaining IT infrastructure for the hospitality industry, including troubleshooting system issues and introducing technology to optimize operations.
+
+- Implemented a **restaurant management system**, automating routine tasks and enhancing service efficiency.
+- Provided technical support and training for employees to ensure smooth operation.
+
+---
+
+## 🔧 Technical Skills
+
+### **Backend Development:**
+- Expert in **PHP** and **Laravel**, with extensive experience in building and scaling complex backend systems.
+- Strong understanding of **JavaScript** frameworks like **Node.js** for server-side programming.
+- Proficient in designing **RESTful APIs**, integrating **third-party services**, and optimizing application performance.
+
+### **Frontend Development:**
+- Skilled in **Angular**, **React**, **NextJS**, and **VueJS** for developing responsive, dynamic web applications.
+- Deep knowledge of **HTML, CSS, SCSS**, and modern JavaScript frameworks to ensure pixel-perfect UI/UX.
+- Proficiency in **cross-browser compatibility**, ensuring a seamless experience across multiple devices and platforms.
+
+### **DevOps & Cloud Infrastructure:**
+- Extensive experience in **AWS Cloud** services (EC2, Lambda, S3) for deploying, scaling, and managing applications.
+- Expertise in **Docker** and **Kubernetes** for containerization and orchestration of cloud-based apps.
+- Continuous Integration/Delivery (CI/CD) pipelines for streamlined deployments and automated testing.
+
+---
+
+## 🌍 Industry Experience
+
+I have a wealth of experience working with clients in multiple industries, including real estate, e-commerce, and hospitality, both in **Sri Lanka** and internationally in the **United Arab Emirates** and **Vietnam**. My ability to collaborate with cross-functional teams ensures that projects are delivered on time, within scope, and with exceptional quality.
+
+---
+
+## 🌱 Continuous Learning & Development
+
+I'm always looking to learn new technologies and frameworks to stay ahead in the fast-evolving world of software engineering. Currently, I’m exploring:
+
+- **Microservices architecture** for large-scale applications.
+- **Machine Learning** and **AI** technologies to create more intelligent, adaptive software.
+- Advanced **DevOps** practices to optimize cloud infrastructure and automation.
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to exciting new opportunities, whether it's collaborating on innovative projects or discussing new technologies. Feel free to reach out!
+
+- **Email:** [atapattu.buddhika@gmail.com](mailto:atapattu.buddhika@gmail.com)
+- **Phone:** [+94777355697](tel:+94777355697)
+- **LinkedIn:** [Buddhika Lahiru Atapattu](https://www.linkedin.com/in/buddhika-lahiru-atapattu/)
+
+---
+
+*"Technology is best when it brings people together."* – Matt Mullenweg
+
+Thanks for stopping by! Check out my repositories below for a closer look at what I’ve been working on.
