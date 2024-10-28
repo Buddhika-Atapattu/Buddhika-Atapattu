@@ -1,17 +1,18 @@
 # 👋 Hello, I’m Buddhika Lahiru Atapattu
 
-Welcome to my GitHub profile! I’m a **Senior Software Engineer** with over 5 years of professional experience, specializing in **Full Stack Web Development**, **Cloud Architecture**, and **DevOps**. I’ve successfully built, deployed, and maintained scalable, high-performance applications across multiple industries in **Sri Lanka** and the **United Arab Emirates**.
+Welcome to my GitHub profile! I’m a **Full Stack Developer** with over 5 years of professional experience in **Web Development**, **Cloud Architecture**, **Mobile Development**, and **DevOps**. I’ve built and maintained **enterprise-level applications** across multiple industries, including **real estate**, **e-commerce**, and **hospitality**, with a focus on delivering high-quality software solutions.
 
 ---
 
 ## 💼 Professional Overview
 
-As a passionate **Software Engineer**, I am proficient in both **frontend** and **backend** development, with a particular focus on **PHP** and **JavaScript** technologies. I bring expertise in designing robust architectures that integrate seamless user experiences with optimized backend systems. My focus has always been on delivering quality, efficiency, and innovation across every stage of the development lifecycle.
+As a versatile **Full Stack Developer**, I have experience in both **frontend** and **backend** development. My skills span across multiple programming languages and frameworks, including **PHP**, **JavaScript**, **Java Spring**, and **Python Django**. I have worked on large-scale enterprise projects, implementing robust, scalable systems that meet the demands of high-performance applications. In addition, I have expertise in **mobile development**, delivering responsive and user-friendly applications on both Android and iOS.
 
 ### 🚀 Expertise:
-- **Languages:** HTML, CSS, SCSS, JavaScript, TypeScript, PHP, NodeJS, Python, C#, C, C++, Dart, Java
-- **Frameworks & Libraries:** Laravel, Angular, React, NextJS, VueJS, ASP .NET, Flutter, React Native
+- **Languages:** HTML, CSS, SCSS, JavaScript, TypeScript, PHP, NodeJS, Python, Java, C#, C, C++, Dart
+- **Frameworks & Libraries:** Laravel, Angular, React, NextJS, VueJS, ASP .NET, **Java Spring**, **Python Django**, Flutter, React Native
 - **DevOps Tools:** Docker, Kubernetes, AWS, Git, CI/CD pipelines
+- **Mobile Development:** **Flutter**, **React Native** for cross-platform mobile applications
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQL/NoSQL databases
 - **Cloud Technologies:** AWS (EC2, Lambda, S3), Docker, Kubernetes
 - **Software Development:** Agile, Scrum, Test-Driven Development (TDD), Microservices architecture, REST APIs
@@ -24,74 +25,78 @@ As a passionate **Software Engineer**, I am proficient in both **frontend** and 
 ### **1. Property Management Cloud Application**  
 **Company:** Indus Real Estate, Dubai  
 **Role:** Full Stack Developer  
-I led the development of a comprehensive property management system that streamlined real estate operations. The system allowed property managers to handle tenants, leases, and maintenance efficiently, supported by robust cloud infrastructure and real-time data analytics.
+I led the development of a comprehensive **cloud-based property management system** for Indus Real Estate, designed to handle high-volume property listings, leases, and tenant management. This system offered a user-friendly interface, real-time analytics, and secure multi-user access.
 
-- Designed and implemented key modules for property listings, user management, and automated notifications.
-- Built scalable RESTful APIs for seamless data management.
-- Implemented **SQL** and **NoSQL** databases for flexible data handling.
-- Created a fully automated testing framework to ensure high-quality deployments.
+- Designed and implemented **RESTful APIs** and integrated **SQL/NoSQL databases** to handle complex data processing and storage.
+- Created automated testing frameworks to ensure high-quality code and smooth deployments.
+- Optimized backend performance for large datasets and handled scalability challenges.
 
 ---
 
-### **2. Mobile-First Responsive Websites**  
+### **2. Mobile-First Websites and Landing Pages**  
 **Company:** NG International Co. LTD, Ho Chi Minh City (remote)  
-**Role:** IT Support and Administrator  
-Developed mobile-first, responsive websites and landing pages for diverse business clients, ensuring cross-platform compatibility and high performance across devices.
+**Role:** Technical Consultant  
+As a **Technical Consultant**, I was responsible for delivering mobile-first websites and landing pages tailored for international business clients. I applied modern design principles and ensured high performance across multiple platforms.
 
-- Standardized output across platforms with a **mobile-first** design approach.
-- Integrated modern UI/UX practices to deliver intuitive user experiences.
-- Provided ongoing support and maintenance to keep websites running smoothly.
+- Developed responsive and cross-browser compatible websites using **React**, **NextJS**, and **VueJS**.
+- Led **online training sessions** and offered technical guidance to team members to ensure standardized output.
+- Integrated APIs and implemented ongoing maintenance for the company’s web assets.
 
 ---
 
-### **3. IT Infrastructure & System Support**  
+### **3. IT Infrastructure & Support**  
 **Company:** Wembley Spirit Limited, Colombo  
-**Role:** IT Technician  
-Contributed to building and maintaining IT infrastructure for the hospitality industry, including troubleshooting system issues and introducing technology to optimize operations.
+**Role:** IT Support Technician  
+At Wembley Spirit Limited, I contributed to stabilizing the company's IT infrastructure by introducing modern software systems and streamlining technical processes.
 
-- Implemented a **restaurant management system**, automating routine tasks and enhancing service efficiency.
-- Provided technical support and training for employees to ensure smooth operation.
+- Developed and deployed a **restaurant management system**, automating routine tasks for improved operational efficiency.
+- Provided system troubleshooting, software installations, and technical support for day-to-day operations.
+- Automated workflows, resulting in significant time savings for the company’s IT operations.
 
 ---
 
 ## 🔧 Technical Skills
 
 ### **Backend Development:**
-- Expert in **PHP** and **Laravel**, with extensive experience in building and scaling complex backend systems.
-- Strong understanding of **JavaScript** frameworks like **Node.js** for server-side programming.
-- Proficient in designing **RESTful APIs**, integrating **third-party services**, and optimizing application performance.
+- Expert in **PHP** and **Laravel**, with hands-on experience in **Java Spring** and **Python Django** for building scalable backend architectures.
+- Strong proficiency in **Node.js** for server-side development and building RESTful APIs for large-scale applications.
+- Extensive experience in designing and optimizing **REST APIs**, integrating **third-party services**, and ensuring secure data transactions.
 
 ### **Frontend Development:**
-- Skilled in **Angular**, **React**, **NextJS**, and **VueJS** for developing responsive, dynamic web applications.
-- Deep knowledge of **HTML, CSS, SCSS**, and modern JavaScript frameworks to ensure pixel-perfect UI/UX.
-- Proficiency in **cross-browser compatibility**, ensuring a seamless experience across multiple devices and platforms.
+- Skilled in **React**, **NextJS**, **Angular**, and **VueJS** for building dynamic, responsive web applications.
+- Expert in **HTML, CSS, SCSS**, and **JavaScript** to create pixel-perfect user interfaces with cross-browser compatibility.
+- Experience with mobile-first design strategies and ensuring responsive performance across multiple devices.
+
+### **Mobile Development:**
+- Proficient in **Flutter** and **React Native** for building cross-platform mobile applications on both Android and iOS.
+- Delivered several mobile apps with optimized performance and seamless user experience, targeting diverse user bases.
 
 ### **DevOps & Cloud Infrastructure:**
-- Extensive experience in **AWS Cloud** services (EC2, Lambda, S3) for deploying, scaling, and managing applications.
-- Expertise in **Docker** and **Kubernetes** for containerization and orchestration of cloud-based apps.
-- Continuous Integration/Delivery (CI/CD) pipelines for streamlined deployments and automated testing.
+- Proficient in cloud deployment using **AWS** services like **EC2**, **S3**, and **Lambda**.
+- Expertise in **Docker** and **Kubernetes** for containerization and orchestration of cloud-based applications.
+- Implemented **CI/CD pipelines** to streamline software delivery and automate testing processes for faster deployments.
 
 ---
 
 ## 🌍 Industry Experience
 
-I have a wealth of experience working with clients in multiple industries, including real estate, e-commerce, and hospitality, both in **Sri Lanka** and internationally in the **United Arab Emirates** and **Vietnam**. My ability to collaborate with cross-functional teams ensures that projects are delivered on time, within scope, and with exceptional quality.
+I have worked across industries such as **real estate**, **e-commerce**, and **hospitality**, delivering tailored solutions for enterprise-level applications. My work spans multiple countries, including **Sri Lanka**, **United Arab Emirates**, and **Vietnam**, where I’ve contributed to projects requiring high availability, scalability, and security.
 
 ---
 
 ## 🌱 Continuous Learning & Development
 
-I'm always looking to learn new technologies and frameworks to stay ahead in the fast-evolving world of software engineering. Currently, I’m exploring:
+I’m constantly exploring new technologies to stay at the forefront of the software engineering field. My current areas of focus include:
 
-- **Microservices architecture** for large-scale applications.
-- **Machine Learning** and **AI** technologies to create more intelligent, adaptive software.
-- Advanced **DevOps** practices to optimize cloud infrastructure and automation.
+- Learning advanced techniques in **Cloud Architecture** and **Microservices** for large-scale systems.
+- Diving deeper into **Mobile Development** with **Flutter** and **React Native** to create robust mobile applications.
+- Expanding my knowledge in **AI/ML** to integrate more intelligent, data-driven features into future projects.
 
 ---
 
 ## 🤝 Let’s Connect
 
-I’m always open to exciting new opportunities, whether it's collaborating on innovative projects or discussing new technologies. Feel free to reach out!
+Feel free to reach out if you’d like to collaborate, explore new opportunities, or discuss technical challenges.
 
 - **Email:** [atapattu.buddhika@gmail.com](mailto:atapattu.buddhika@gmail.com)
 - **Phone:** [+94777355697](tel:+94777355697)
@@ -99,6 +104,6 @@ I’m always open to exciting new opportunities, whether it's collaborating on i
 
 ---
 
-*"Technology is best when it brings people together."* – Matt Mullenweg
+*"Technology that adapts is the future of enterprise solutions."* – Unknown
 
-Thanks for stopping by! Check out my repositories below for a closer look at what I’ve been working on.
+Thanks for visiting! Check out my repositories to see some of the projects I’ve been working on.
