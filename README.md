@@ -33,18 +33,7 @@ I led the development of a comprehensive property management system that streaml
 
 ---
 
-### **2. E-Commerce Platform Development**  
-**Role:** Senior Backend Developer  
-Worked with one of the leading e-commerce platforms in the MENA region. I played a key role in architecting backend systems to support large-scale online sales, product catalog management, and seamless user interactions.
-
-- Specialized in **PHP** (Laravel) and **Microservices architecture** to build scalable and modular components.
-- Improved performance and reduced latency by optimizing database queries and server-side logic.
-- Collaborated closely with frontend teams to ensure smooth, responsive UIs that align with business needs.
-- Managed and mentored a team of junior developers, helping them grow technically and professionally.
-
----
-
-### **3. Mobile-First Responsive Websites**  
+### **2. Mobile-First Responsive Websites**  
 **Company:** NG International Co. LTD, Ho Chi Minh City (remote)  
 **Role:** IT Support and Administrator  
 Developed mobile-first, responsive websites and landing pages for diverse business clients, ensuring cross-platform compatibility and high performance across devices.
@@ -55,7 +44,7 @@ Developed mobile-first, responsive websites and landing pages for diverse busine
 
 ---
 
-### **4. IT Infrastructure & System Support**  
+### **3. IT Infrastructure & System Support**  
 **Company:** Wembley Spirit Limited, Colombo  
 **Role:** IT Technician  
 Contributed to building and maintaining IT infrastructure for the hospitality industry, including troubleshooting system issues and introducing technology to optimize operations.
